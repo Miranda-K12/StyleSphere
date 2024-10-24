@@ -1,2 +1,0 @@
-# StyleSphere
-Online Store

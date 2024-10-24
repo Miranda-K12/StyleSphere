@@ -205,6 +205,10 @@
   .burger-menu {
     width: 50%;
   }
+
+  .approve-window {
+    width: 80%;
+  }
 }
 
 /*below 420*/
